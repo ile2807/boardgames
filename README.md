@@ -13,6 +13,7 @@
 - [One night ultimate warewolf](https://boardgamegeek.com/boardgame/147949/one-night-ultimate-werewolf)
 - [Mr. Jack Pocket](https://boardgamegeek.com/boardgame/72287/mr-jack-pocket)
 - [Raiders of the North sea](https://boardgamegeek.com/boardgame/170042/raiders-north-sea)
+- [Res Arcana](https://boardgamegeek.com/boardgame/262712/res-arcana)
 
 ## Kids
 - [Quartino](https://boardgamegeek.com/boardgame/225940/quartino)
