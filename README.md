@@ -7,6 +7,10 @@
 - [Vilages of Valeria](https://boardgamegeek.com/boardgame/216725/villages-valeria-deluxe-kickstarter-edition)
 - [Valeria Card kingdoms](https://boardgamegeek.com/boardgame/170561/valeria-card-kingdoms)
 - [Codenames](https://boardgamegeek.com/boardgame/198773/codenames-pictures)
+- [Merchants Cove](https://boardgamegeek.com/boardgame/277700/merchants-cove)
+- [Merchants Cove Expansions](https://boardgamegeek.com/boardgame/277700/merchants-cove/expansions)
+- [Drawn to adventure](https://boardgamegeek.com/boardgame/301441/drawn-adventure)
+- [Imperium: Legends](https://boardgamegeek.com/boardgame/318182/imperium-legends)
 ## Print and play
 - [Loot](https://boardgamegeek.com/boardgame/770/loot)
 - [Chronicles of Crime](https://boardgamegeek.com/boardgame/239188/chronicles-crime)
