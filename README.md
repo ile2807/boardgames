@@ -24,6 +24,9 @@
 |![](https://cf.geekdo-images.com/hXdfAhgZ8OeyWLunt36wlw__itemrep/img/XeBGbyu1HgfFyGKXah_UU5lQBNI=/fit-in/246x300/filters:strip_icc()/pic3578101.jpg)|[Raiders of the North sea](https://boardgamegeek.com/boardgame/170042/raiders-north-sea)|Not complete, missing meeples|
 |![](https://cf.geekdo-images.com/gcALy45JfcjyKUn6T3mBIQ__itemrep/img/kSOcgfYrimNkhTcWZzNgLa4CfvA=/fit-in/246x300/filters:strip_icc()/pic4422847.jpg)|[Res Arcana](https://boardgamegeek.com/boardgame/262712/res-arcana)|Easy rules, sometimes you get stuck|
 |![](https://cf.geekdo-images.com/rT6zVN1zRbEMHok5V_zoGQ__itemrep/img/sNEgpzjcKi4TDtaw4eswx4OHFxE=/fit-in/246x300/filters:strip_icc()/pic3747083.png)|[Tortuga 1667](https://boardgamegeek.com/boardgame/218530/tortuga-1667)||
+|![](https://cf.geekdo-images.com/GifbnAmsA4lfEcDkeaC9VA__imagepage/img/TvxriorE7sP7kHcUQAgLGoJP7ZQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4397932.png)|[Cartographers](https://boardgamegeek.com/boardgame/263918/cartographers)||
+
+
 
 ## Kids
 |Image|Name|Note
