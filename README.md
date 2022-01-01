@@ -25,8 +25,8 @@
 |![](https://cf.geekdo-images.com/gcALy45JfcjyKUn6T3mBIQ__itemrep/img/kSOcgfYrimNkhTcWZzNgLa4CfvA=/fit-in/246x300/filters:strip_icc()/pic4422847.jpg)|[Res Arcana](https://boardgamegeek.com/boardgame/262712/res-arcana)|Easy rules, sometimes you get stuck|
 |![](https://cf.geekdo-images.com/rT6zVN1zRbEMHok5V_zoGQ__itemrep/img/sNEgpzjcKi4TDtaw4eswx4OHFxE=/fit-in/246x300/filters:strip_icc()/pic3747083.png)|[Tortuga 1667](https://boardgamegeek.com/boardgame/218530/tortuga-1667)||
 |![](https://cf.geekdo-images.com/GifbnAmsA4lfEcDkeaC9VA__itemrep/img/0wjmkvfHlWU5_l9dnaoDanV0s5U=/fit-in/246x300/filters:strip_icc()/pic4397932.png)|[Cartographers](https://boardgamegeek.com/boardgame/263918/cartographers)||
-|![](https://cf.geekdo-images.com/jg8VIgXWtGmfROj5hdq4Vg__imagepagezoom/img/ZQxpoopASiFnnjjHNDchyt7TlfU=/fit-in/1200x900/filters:strip_icc()/pic5275420.png)|[Skulls of Sedlec](https://boardgamegeek.com/image/5275420/skulls-sedlec)|Child friendly|
-|![](https://cf.geekdo-images.com/vDu0Zb4ooGEOF29ZaRQ3EQ__imagepagezoom/img/8NFaRM2dZuwvqo5wTMD9f4aVYNw=/fit-in/1200x900/filters:strip_icc()/pic5845169.jpg)|[Hidden Leaders](https://boardgamegeek.com/boardgame/320718/hidden-leaders)|Needs bigger team for good gameplay|
+|![](https://cf.geekdo-images.com/jg8VIgXWtGmfROj5hdq4Vg__imagepagezoom/img/ZQxpoopASiFnnjjHNDchyt7TlfU=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic5275420.png)|[Skulls of Sedlec](https://boardgamegeek.com/image/5275420/skulls-sedlec)|Child friendly|
+|![](https://cf.geekdo-images.com/vDu0Zb4ooGEOF29ZaRQ3EQ__imagepagezoom/img/8NFaRM2dZuwvqo5wTMD9f4aVYNw=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic5845169.jpg)|[Hidden Leaders](https://boardgamegeek.com/boardgame/320718/hidden-leaders)|Needs bigger team for good gameplay|
 
 
 
