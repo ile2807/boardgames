@@ -25,8 +25,8 @@
 |![](https://cf.geekdo-images.com/gcALy45JfcjyKUn6T3mBIQ__itemrep/img/kSOcgfYrimNkhTcWZzNgLa4CfvA=/fit-in/246x300/filters:strip_icc()/pic4422847.jpg)|[Res Arcana](https://boardgamegeek.com/boardgame/262712/res-arcana)|Easy rules, sometimes you get stuck|
 |![](https://cf.geekdo-images.com/rT6zVN1zRbEMHok5V_zoGQ__itemrep/img/sNEgpzjcKi4TDtaw4eswx4OHFxE=/fit-in/246x300/filters:strip_icc()/pic3747083.png)|[Tortuga 1667](https://boardgamegeek.com/boardgame/218530/tortuga-1667)||
 |![](https://cf.geekdo-images.com/GifbnAmsA4lfEcDkeaC9VA__itemrep/img/0wjmkvfHlWU5_l9dnaoDanV0s5U=/fit-in/246x300/filters:strip_icc()/pic4397932.png)|[Cartographers](https://boardgamegeek.com/boardgame/263918/cartographers)||
-|![](https://cf.geekdo-images.com/jg8VIgXWtGmfROj5hdq4Vg__imagepagezoom/img/ZQxpoopASiFnnjjHNDchyt7TlfU=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic5275420.png)|[Skulls of Sedlec](https://boardgamegeek.com/image/5275420/skulls-sedlec)|Child friendly|
-|![](https://cf.geekdo-images.com/vDu0Zb4ooGEOF29ZaRQ3EQ__imagepagezoom/img/8NFaRM2dZuwvqo5wTMD9f4aVYNw=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic5845169.jpg)|[Hidden Leaders](https://boardgamegeek.com/boardgame/320718/hidden-leaders)|Needs bigger team for good gameplay|
+|![](https://cf.geekdo-images.com/jg8VIgXWtGmfROj5hdq4Vg__itemrep/img/HPnP7dRmLO7M0LP-fwuQn0N9xsM=/fit-in/246x300/filters:strip_icc()/pic5275420.png)|[Skulls of Sedlec](https://boardgamegeek.com/image/5275420/skulls-sedlec)|Child friendly|
+|![](https://cf.geekdo-images.com/vDu0Zb4ooGEOF29ZaRQ3EQ__itemrep/img/mjljolaPV0Y9NUYBVU1YOmdnnBY=/fit-in/246x300/filters:strip_icc()/pic5845169.jpg)|[Hidden Leaders](https://boardgamegeek.com/boardgame/320718/hidden-leaders)|Needs bigger team for good gameplay|
 
 
 
@@ -39,4 +39,4 @@
 |![](https://cf.geekdo-images.com/VddNmZyVWsxyebeGbu4-dg__itemrep/img/2JGKcrP7Bqz24kSFWnp2A1qPcik=/fit-in/246x300/filters:strip_icc()/pic2577990.jpg)|[Celestia](https://boardgamegeek.com/boardgame/175117/celestia)|Beginner friendly, easy rules, children friendly|
 |![](https://cf.geekdo-images.com/tz19PfklMdAdjxV9WArraA__itemrep/img/EuG9Te3VDhT58DlEYeEVVunM5wY=/fit-in/246x300/filters:strip_icc()/pic3718275.jpg)|[Azul](https://boardgamegeek.com/boardgame/230802/azul)|Beginner friendly, easy rules, good gameplay|
 |![](https://cf.geekdo-images.com/rUPZymDPR7AYxxsyOKi2DA__itemrep/img/Vv88DJDauzaal_Me4erpcuRqsx4=/fit-in/246x300/filters:strip_icc()/pic3336898.jpg)|[RobotLab](https://boardgamegeek.com/boardgame/215526/robotlab-card-game)|Very children friendly|
-|![](https://cf.geekdo-images.com/3h9W8BfB_rltQ48EBmHliw__imagepagezoom/img/MX6Y-jrUdfiYIYbgbXDpx2pSLVw=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic3132685.png)|[Kingdomino](https://boardgamegeek.com/boardgame/204583/kingdomino)|Child friendly|
+|![](https://cf.geekdo-images.com/3h9W8BfB_rltQ48EBmHliw__imagepagezoom/img/MX6Y-jrUdfiYIYbgbXDpx2pSLVw=/fit-in/246x300/filters:no_upscale():strip_icc()/pic3132685.png)|[Kingdomino](https://boardgamegeek.com/boardgame/204583/kingdomino)|Child friendly|
