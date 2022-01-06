@@ -27,7 +27,8 @@
 |![](https://cf.geekdo-images.com/GifbnAmsA4lfEcDkeaC9VA__itemrep/img/0wjmkvfHlWU5_l9dnaoDanV0s5U=/fit-in/246x300/filters:strip_icc()/pic4397932.png)|[Cartographers](https://boardgamegeek.com/boardgame/263918/cartographers)||
 |![](https://cf.geekdo-images.com/jg8VIgXWtGmfROj5hdq4Vg__itemrep/img/HPnP7dRmLO7M0LP-fwuQn0N9xsM=/fit-in/246x300/filters:strip_icc()/pic5275420.png)|[Skulls of Sedlec](https://boardgamegeek.com/image/5275420/skulls-sedlec)|Child friendly|
 |![](https://cf.geekdo-images.com/vDu0Zb4ooGEOF29ZaRQ3EQ__itemrep/img/mjljolaPV0Y9NUYBVU1YOmdnnBY=/fit-in/246x300/filters:strip_icc()/pic5845169.jpg)|[Hidden Leaders](https://boardgamegeek.com/boardgame/320718/hidden-leaders)|Needs bigger team for good gameplay|
-
+|![](https://cf.geekdo-images.com/rwOMxx4q5yuElIvo-1-OFw__itemrep/img/NaQx3XWoNAOMDGl4AXf4nxlhHo0=/fit-in/246x300/filters:strip_icc()/pic1904079.jpg)|[Splendor](https://boardgamegeek.com/boardgame/148228/splendor)|Easy rules, beginer friendly|
+|![](https://cf.geekdo-images.com/KFvJSZokVUTkLpZCpmEzHA__itemrep/img/VuTDRJ32vLlpzQUu_J5C8Z7wA2g=/fit-in/246x300/filters:strip_icc()/pic3584961.jpg)|[10 Minute Heist](https://boardgamegeek.com/boardgame/194789/10-minute-heist-wizards-tower)|Beginer friendly, no math|
 
 
 
