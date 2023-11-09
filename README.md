@@ -41,3 +41,5 @@
 |![](https://cf.geekdo-images.com/tz19PfklMdAdjxV9WArraA__itemrep/img/EuG9Te3VDhT58DlEYeEVVunM5wY=/fit-in/246x300/filters:strip_icc()/pic3718275.jpg)|[Azul](https://boardgamegeek.com/boardgame/230802/azul)|Beginner friendly, easy rules, good gameplay|
 |![](https://cf.geekdo-images.com/rUPZymDPR7AYxxsyOKi2DA__itemrep/img/Vv88DJDauzaal_Me4erpcuRqsx4=/fit-in/246x300/filters:strip_icc()/pic3336898.jpg)|[RobotLab](https://boardgamegeek.com/boardgame/215526/robotlab-card-game)|Very children friendly|
 |![](https://cf.geekdo-images.com/3h9W8BfB_rltQ48EBmHliw__itemrep/img/iL7bbm8d4meLUnnrFrmKx0Xk2k0=/fit-in/246x300/filters:strip_icc()/pic3132685.png)|[Kingdomino](https://boardgamegeek.com/boardgame/204583/kingdomino)|Child friendly|
+
+Something new
